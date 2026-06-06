@@ -90,4 +90,8 @@ LeetCode/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TechKirtisingh/LEETCODE/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
