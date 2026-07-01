@@ -1,6 +1,5 @@
-class Solution {                                                                                 // nums=[5,7,7,8,8,10]  target=8
-
-    public int[] searchRange(int[] nums, int target) {
+class Solution {                                                                     
+public int[] searchRange(int[] nums, int target) {
 
 // Ek array banaya hai jisme default answer [-1,-1] hai.
 //  Agar target nahi mila to isi ko return kar denge
@@ -84,3 +83,23 @@ class Solution {                                                                
         return ans;
     }
 }
+
+////////////////   explaination 
+
+          // nums=[10 ,20,20,30,30,30,40,40,50,50,60,70]  target=30
+//                  S                                   E
+// First occurance
+// use binary search method : array ko half me divide kr denge 
+// mid = S+E /2 => 5
+// agr hame kabhi 1st occurance find karna hai to wo mid ke left me milne ke chance jayada honge tb jb mid me shayad wo element occur kr sake (mid = 30)value (5th index) = ans
+// so after getting take E and put at mid-1 positon (E=4index(mid-1))
+// then fir find mid ((0+4)/2 => 2)
+
+//check weather the target is greater or less than 
+
+// in this case my target is greater than 
+// // then move S to mid+1 (0=>3)(currently S is at 3)
+
+// mid =((3+4)/2 => 3) (S and mid is at same position)
+
+// then also we check shayad mid se pahale bhi occurance ho sakti hai to ((((put E ===>  mid - 1  ))))
