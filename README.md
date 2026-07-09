@@ -96,6 +96,7 @@ LeetCode/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechKirtisingh/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/TechKirtisingh/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -162,6 +163,7 @@ LeetCode/
 | [0162-find-peak-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechKirtisingh/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
