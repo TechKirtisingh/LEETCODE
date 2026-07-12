@@ -91,6 +91,7 @@ LeetCode/
 | [0033-search-in-rotated-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TechKirtisingh/LEETCODE/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/TechKirtisingh/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/TechKirtisingh/LEETCODE/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0162-find-peak-element) |
@@ -132,6 +133,7 @@ LeetCode/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TechKirtisingh/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -170,6 +172,7 @@ LeetCode/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TechKirtisingh/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/TechKirtisingh/LEETCODE/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
