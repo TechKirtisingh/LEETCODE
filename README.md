@@ -121,6 +121,7 @@ LeetCode/
 | [0989-add-to-array-form-of-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/TechKirtisingh/LEETCODE/tree/master/1518-water-bottles) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/TechKirtisingh/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,4 +204,8 @@ LeetCode/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechKirtisingh/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/TechKirtisingh/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
