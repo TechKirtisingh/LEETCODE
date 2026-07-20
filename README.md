@@ -195,6 +195,7 @@ LeetCode/
 | [0027-remove-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/TechKirtisingh/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TechKirtisingh/LEETCODE/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/TechKirtisingh/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechKirtisingh/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -225,6 +226,7 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/TechKirtisingh/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0179-largest-number) |
 ## Greedy
 |  |
