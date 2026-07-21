@@ -226,6 +226,7 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/TechKirtisingh/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/TechKirtisingh/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0179-largest-number) |
 ## Greedy
