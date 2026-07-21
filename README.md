@@ -103,6 +103,7 @@ LeetCode/
 | [0238-product-of-array-except-self](https://github.com/TechKirtisingh/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -161,6 +162,7 @@ LeetCode/
 | [0179-largest-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -197,6 +199,7 @@ LeetCode/
 | [0075-sort-colors](https://github.com/TechKirtisingh/LEETCODE/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/TechKirtisingh/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechKirtisingh/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -233,6 +236,7 @@ LeetCode/
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0179-largest-number) |
+| [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 ## Quickselect
 |  |
 | ------- |
