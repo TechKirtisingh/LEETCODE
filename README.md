@@ -102,6 +102,7 @@ LeetCode/
 | [0215-kth-largest-element-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/TechKirtisingh/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@ LeetCode/
 | ------- |
 | [0231-power-of-two](https://github.com/TechKirtisingh/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +184,7 @@ LeetCode/
 | [0162-find-peak-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechKirtisingh/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -199,6 +202,7 @@ LeetCode/
 | [0075-sort-colors](https://github.com/TechKirtisingh/LEETCODE/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/TechKirtisingh/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechKirtisingh/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
