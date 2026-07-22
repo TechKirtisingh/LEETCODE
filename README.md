@@ -223,6 +223,7 @@ LeetCode/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechKirtisingh/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/TechKirtisingh/LEETCODE/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/TechKirtisingh/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -250,4 +251,9 @@ LeetCode/
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/TechKirtisingh/LEETCODE/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/TechKirtisingh/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TechKirtisingh/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
