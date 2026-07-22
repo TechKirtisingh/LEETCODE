@@ -222,6 +222,7 @@ LeetCode/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechKirtisingh/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/TechKirtisingh/LEETCODE/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -245,4 +246,8 @@ LeetCode/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/TechKirtisingh/LEETCODE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
