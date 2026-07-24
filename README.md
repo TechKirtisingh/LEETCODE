@@ -95,6 +95,7 @@ LeetCode/
 | [0053-maximum-subarray](https://github.com/TechKirtisingh/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/TechKirtisingh/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/TechKirtisingh/LEETCODE/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/TechKirtisingh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechKirtisingh/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -115,6 +116,7 @@ LeetCode/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TechKirtisingh/LEETCODE/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/TechKirtisingh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
@@ -259,4 +261,8 @@ LeetCode/
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TechKirtisingh/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TechKirtisingh/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TechKirtisingh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
