@@ -105,6 +105,7 @@ LeetCode/
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/TechKirtisingh/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
@@ -213,6 +214,7 @@ LeetCode/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TechKirtisingh/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/TechKirtisingh/LEETCODE/tree/master/0724-find-pivot-index) |
 ## Brainteaser
 |  |
 | ------- |
