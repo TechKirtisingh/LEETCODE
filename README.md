@@ -108,6 +108,7 @@ LeetCode/
 | [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
+| [1046-last-stone-weight](https://github.com/TechKirtisingh/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -174,6 +175,7 @@ LeetCode/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/TechKirtisingh/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
