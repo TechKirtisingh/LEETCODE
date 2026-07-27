@@ -250,6 +250,7 @@ LeetCode/
 | [0179-largest-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/TechKirtisingh/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/TechKirtisingh/LEETCODE/tree/master/0443-string-compression) |
+| [1446-consecutive-characters](https://github.com/TechKirtisingh/LEETCODE/tree/master/1446-consecutive-characters) |
 ## Greedy
 |  |
 | ------- |
