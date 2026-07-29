@@ -106,6 +106,7 @@ LeetCode/
 | [0287-find-the-duplicate-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/TechKirtisingh/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/TechKirtisingh/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
@@ -162,6 +163,7 @@ LeetCode/
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/TechKirtisingh/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/TechKirtisingh/LEETCODE/tree/master/1518-water-bottles) |
 ## Sorting
 |  |
@@ -287,5 +289,6 @@ LeetCode/
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/TechKirtisingh/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TechKirtisingh/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
