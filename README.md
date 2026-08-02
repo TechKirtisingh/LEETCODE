@@ -92,6 +92,7 @@ LeetCode/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TechKirtisingh/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/TechKirtisingh/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/TechKirtisingh/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/TechKirtisingh/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/TechKirtisingh/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/TechKirtisingh/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -131,6 +132,7 @@ LeetCode/
 | ------- |
 | [0007-reverse-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/TechKirtisingh/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/TechKirtisingh/LEETCODE/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/TechKirtisingh/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
@@ -295,6 +297,7 @@ LeetCode/
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TechKirtisingh/LEETCODE/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/TechKirtisingh/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/TechKirtisingh/LEETCODE/tree/master/0867-transpose-matrix) |
