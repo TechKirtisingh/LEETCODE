@@ -98,6 +98,7 @@ LeetCode/
 | [0074-search-a-2d-matrix](https://github.com/TechKirtisingh/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/TechKirtisingh/LEETCODE/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/TechKirtisingh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechKirtisingh/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -149,6 +150,7 @@ LeetCode/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/TechKirtisingh/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0287-find-the-duplicate-number) |
