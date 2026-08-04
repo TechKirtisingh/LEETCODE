@@ -101,6 +101,7 @@ LeetCode/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TechKirtisingh/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/TechKirtisingh/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -125,6 +126,7 @@ LeetCode/
 | ------- |
 | [0001-two-sum](https://github.com/TechKirtisingh/LEETCODE/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/TechKirtisingh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -176,6 +178,7 @@ LeetCode/
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/TechKirtisingh/LEETCODE/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
@@ -212,6 +215,7 @@ LeetCode/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TechKirtisingh/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/TechKirtisingh/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
@@ -239,6 +243,7 @@ LeetCode/
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/TechKirtisingh/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -309,4 +314,8 @@ LeetCode/
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
