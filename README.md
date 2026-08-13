@@ -113,6 +113,7 @@ LeetCode/
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TechKirtisingh/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/TechKirtisingh/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/TechKirtisingh/LEETCODE/tree/master/0867-transpose-matrix) |
@@ -133,6 +134,7 @@ LeetCode/
 | [0128-longest-consecutive-sequence](https://github.com/TechKirtisingh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/TechKirtisingh/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -191,6 +193,7 @@ LeetCode/
 | [0179-largest-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -216,6 +219,7 @@ LeetCode/
 | [0240-search-a-2d-matrix-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -240,6 +244,7 @@ LeetCode/
 | [0189-rotate-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TechKirtisingh/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/TechKirtisingh/LEETCODE/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
