@@ -275,11 +275,13 @@ LeetCode/
 | [0225-implement-stack-using-queues](https://github.com/TechKirtisingh/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TechKirtisingh/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/TechKirtisingh/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0901-online-stock-span](https://github.com/TechKirtisingh/LEETCODE/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechKirtisingh/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/TechKirtisingh/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0901-online-stock-span](https://github.com/TechKirtisingh/LEETCODE/tree/master/0901-online-stock-span) |
 ## Number Theory
 |  |
 | ------- |
@@ -312,6 +314,7 @@ LeetCode/
 | [0155-min-stack](https://github.com/TechKirtisingh/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/TechKirtisingh/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TechKirtisingh/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/TechKirtisingh/LEETCODE/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -337,4 +340,8 @@ LeetCode/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0169-majority-element) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/TechKirtisingh/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
