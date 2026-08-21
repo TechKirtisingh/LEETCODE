@@ -97,6 +97,7 @@ LeetCode/
 | [0066-plus-one](https://github.com/TechKirtisingh/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/TechKirtisingh/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/TechKirtisingh/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/TechKirtisingh/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TechKirtisingh/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/TechKirtisingh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -159,6 +160,7 @@ LeetCode/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/TechKirtisingh/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/TechKirtisingh/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
@@ -344,4 +346,8 @@ LeetCode/
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/TechKirtisingh/LEETCODE/tree/master/0901-online-stock-span) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/TechKirtisingh/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
