@@ -148,6 +148,7 @@ LeetCode/
 | [0009-palindrome-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/TechKirtisingh/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/TechKirtisingh/LEETCODE/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/TechKirtisingh/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TechKirtisingh/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
@@ -175,12 +176,14 @@ LeetCode/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechKirtisingh/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TechKirtisingh/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/TechKirtisingh/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TechKirtisingh/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TechKirtisingh/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
