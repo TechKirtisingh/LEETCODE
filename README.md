@@ -120,6 +120,7 @@ LeetCode/
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/TechKirtisingh/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/TechKirtisingh/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/TechKirtisingh/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -283,12 +284,14 @@ LeetCode/
 | [0225-implement-stack-using-queues](https://github.com/TechKirtisingh/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TechKirtisingh/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/TechKirtisingh/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/TechKirtisingh/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TechKirtisingh/LEETCODE/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechKirtisingh/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/TechKirtisingh/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/TechKirtisingh/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TechKirtisingh/LEETCODE/tree/master/0901-online-stock-span) |
 ## Number Theory
 |  |
