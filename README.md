@@ -118,6 +118,7 @@ LeetCode/
 | [0287-find-the-duplicate-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/TechKirtisingh/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/TechKirtisingh/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/TechKirtisingh/LEETCODE/tree/master/0739-daily-temperatures) |
@@ -141,6 +142,7 @@ LeetCode/
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/TechKirtisingh/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/TechKirtisingh/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -284,6 +286,7 @@ LeetCode/
 | [0225-implement-stack-using-queues](https://github.com/TechKirtisingh/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TechKirtisingh/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/TechKirtisingh/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/TechKirtisingh/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/TechKirtisingh/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TechKirtisingh/LEETCODE/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -291,6 +294,7 @@ LeetCode/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechKirtisingh/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/TechKirtisingh/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/TechKirtisingh/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/TechKirtisingh/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TechKirtisingh/LEETCODE/tree/master/0901-online-stock-span) |
 ## Number Theory
