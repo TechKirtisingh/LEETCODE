@@ -111,6 +111,7 @@ LeetCode/
 | [0179-largest-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/TechKirtisingh/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TechKirtisingh/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
@@ -139,6 +140,7 @@ LeetCode/
 | [0001-two-sum](https://github.com/TechKirtisingh/LEETCODE/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/TechKirtisingh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TechKirtisingh/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -205,6 +207,7 @@ LeetCode/
 | [0169-majority-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/TechKirtisingh/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TechKirtisingh/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/TechKirtisingh/LEETCODE/tree/master/0881-boats-to-save-people) |
