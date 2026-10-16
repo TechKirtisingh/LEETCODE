@@ -131,6 +131,7 @@ LeetCode/
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/TechKirtisingh/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/TechKirtisingh/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -149,6 +150,7 @@ LeetCode/
 | [0496-next-greater-element-i](https://github.com/TechKirtisingh/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/TechKirtisingh/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/TechKirtisingh/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Math
 |  |
@@ -165,6 +167,7 @@ LeetCode/
 | [0509-fibonacci-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/TechKirtisingh/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/TechKirtisingh/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/TechKirtisingh/LEETCODE/tree/master/1518-water-bottles) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TechKirtisingh/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -282,6 +285,7 @@ LeetCode/
 | ------- |
 | [0169-majority-element](https://github.com/TechKirtisingh/LEETCODE/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TechKirtisingh/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/TechKirtisingh/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/TechKirtisingh/LEETCODE/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TechKirtisingh/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
